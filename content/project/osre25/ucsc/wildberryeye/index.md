@@ -2,7 +2,7 @@
 title: "WildBerryEye"
 authors: [caiespin]
 author_notes: ["Autonomous Systems Lab, UC Santa Cruz"]
-tags: ["osre25", "uc", "ecology", "website design"]
+tags: ["osre25", "uc", "ecology", "website design", "mechanical design"]
 date: 2025-02-11T10:15:56-07:00
 lastmod: 2025-02-12T10:15:56-07:00
 ---
@@ -24,3 +24,17 @@ Specific tasks:
 - Backend Development: Expand functionality using Flask, focusing on efficient API endpoints and seamless interaction with the frontend (excluding database implementation).
 - Real-Time Communication: Implement and refine real-time updates between the frontend and backend to enhance system responsiveness.
 - Usability & Design Optimization: Research and propose improvements to the system’s usability, design, and overall user experience.
+
+### Develop Weather-Resistant Camera Enclosure
+
+- **Topics:** `FreeCAD Mechanical Design`
+- **Skills:** Experience with CAD, mechanical design principles, and 3D printing
+- **Difficulty:** Moderate
+- **Size:** Medium (175 hrs)
+- **Mentors:** [Carlos Isaac Espinosa Ramirez](mailto:caiespin@ucsc.edu)
+
+Design and prototype a durable, weather-resistant camera enclosure for WildBerryEye. The enclosure must effectively protect the Raspberry Pi, camera, and other electronics while being optimized for ease of manufacturing, assembly, and deployment in outdoor environments. The design must also allow access to relevant electronic ports and switches, being fully functional without requiring disassembly. Furthermore, the project must utilize FreeCAD software to uphold open-source principles, ensuring it remains accessible and adaptable.
+
+Specific tasks:
+- Enclosure Design: Develop a robust mechanical design using FreeCAD, ensuring protection against environmental factors like rain, dust, and temperature variations.
+- Manufacturability Optimization: Design for efficient 3D printing out of PLA filament, minimizing the need for support structures and keeping all assembly straightforward and durable.
